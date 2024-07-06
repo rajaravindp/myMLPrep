@@ -15,8 +15,11 @@ Dataset source - https://www.kaggle.com/datasets/deepu1109/star-dataset <br>
 
 
 # Image Datasets
-4. *diseaseDetect.ipynb* <br>
+1. *diseaseDetect.ipynb* <br>
 Plant disease prediction - Multi class classification problem - Leveraged pretrained Resnet18 model for task specific classification. <br>
 Dataset source - https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset <br>
 
 # NLPrep
+1. *Medi_Ques_Pair.ipynb* <br>
+Question-pair Classification - Classify pairs of medical questions as related or unrelated using a BERT Sequence Classifier. <br>
+Dataset Source - https://www.kaggle.com/datasets/thedevastator/medical-question-pair-classification
