@@ -14,7 +14,7 @@ Multi class classification of star types - Defined custom two-layer neural netwo
 Dataset source - https://www.kaggle.com/datasets/deepu1109/star-dataset <br>
 
 
-# Image Datasets
+# ImagePrep
 1. *diseaseDetect.ipynb* <br>
 Plant disease prediction - Multi class classification problem - Leveraged pretrained Resnet18 model for task specific classification. <br>
 Dataset source - https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset <br>
@@ -22,4 +22,10 @@ Dataset source - https://www.kaggle.com/datasets/rashikrahmanpritom/plant-diseas
 # NLPrep
 1. *Medi_Ques_Pair.ipynb* <br>
 Question-pair Classification - Classify pairs of medical questions as related or unrelated using a BERT Sequence Classifier. <br>
-Dataset Source - https://www.kaggle.com/datasets/thedevastator/medical-question-pair-classification
+Dataset Source - https://www.kaggle.com/datasets/thedevastator/medical-question-pair-classification <br>
+
+# AudioPrep
+1. *WaveF_Spectgm.ipunb* <br>
+Into to visualizing audio data - Plot waveform and spectrogram representations. <br>
+Dataset Source - https://huggingface.co/datasets/facebook/voxpopuli <br>
+
