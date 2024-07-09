@@ -25,7 +25,7 @@ Question-pair Classification - Classify pairs of medical questions as related or
 Dataset Source - https://www.kaggle.com/datasets/thedevastator/medical-question-pair-classification <br>
 
 # AudioPrep
-1. *WaveF_Spectgm.ipunb* <br>
+1. *waveF_Spectgm.ipunb* <br>
 Into to visualizing audio data - Plot waveform and spectrogram representations. <br>
 Dataset Source - https://huggingface.co/datasets/facebook/voxpopuli <br>
 
