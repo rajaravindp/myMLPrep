@@ -29,3 +29,6 @@ Dataset Source - https://www.kaggle.com/datasets/thedevastator/medical-question-
 Into to visualizing audio data - Plot waveform and spectrogram representations. <br>
 Dataset Source - https://huggingface.co/datasets/facebook/voxpopuli <br>
 
+2. *musicgen.ipynb* <br>
+Music composition is just a prompt away. <br>
+
