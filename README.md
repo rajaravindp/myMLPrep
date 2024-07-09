@@ -32,3 +32,7 @@ Dataset Source - https://huggingface.co/datasets/facebook/voxpopuli <br>
 2. *musicgen.ipynb* <br>
 Music composition is just a prompt away. <br>
 
+3. *musicGenreClassification.ipynb* <br>
+Fine-tuning an encoder-only transformer model for music classification - Classify music by their genre. <br>
+Dataset Source - https://huggingface.co/datasets/lewtun/music_genres_small
+
